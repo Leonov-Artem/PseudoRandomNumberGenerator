@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace NumberGenerator
+﻿namespace NumberGenerator
 {
     public class MultiplicativeCongruentMethod : IRandom
     {
